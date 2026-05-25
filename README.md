@@ -27,7 +27,16 @@ Contributed to the OpenPrinting ecosystem through real-world bug fixes, infrastr
 
 - Docker runtime linking improvements for libcups
   → [View Pull Request](https://github.com/OpenPrinting/cups/pull/1582)
+  
+- Raise auth failure log level from DEBUG to WARN for fail2ban compatibility
+    [View Pull Request](https://github.com/OpenPrinting/cups/pull/1561)
+  
+- remove legacy .egg references from Makefile.com 
+    [View Pull Request](https://github.com/OpenPrinting/system-config-printer/pull/429)
 
+- Fix spelling error in CONTRIBUTING.md
+    [View Pull Request](https://github.com/OpenPrinting/openprinting.github.io/pull/191)
+  
 ### Contribution Areas
 
 - Linux Printing Infrastructure
