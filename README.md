@@ -17,16 +17,16 @@ Contributed to the OpenPrinting ecosystem through real-world bug fixes, infrastr
 ### Featured Contributions
 
 - Fix duplicate local printers in DNS-SD discovery
-  → [View Pull Request](PASTE_PR_LINK_HERE)
+  → [View Pull Request](https://github.com/OpenPrinting/cups/pull/1573)
 
 - Fix: Satisfy all with multiple Require directives
-  → [View Pull Request](PASTE_PR_LINK_HERE)
+  → [View Pull Request](https://github.com/OpenPrinting/cups/pull/1577)
 
 - Add BrowseIPPSOnly directive and update man page
-  → [View Pull Request](PASTE_PR_LINK_HERE)
+  → [View Pull Request](https://github.com/OpenPrinting/cups/pull/1564)
 
 - Docker runtime linking improvements for libcups
-  → [View Pull Request](PASTE_PR_LINK_HERE)
+  → [View Pull Request](https://github.com/OpenPrinting/cups/pull/1582)
 
 ### Contribution Areas
 
@@ -112,16 +112,16 @@ A C-based optimized dictionary lookup system focused on performance and memory e
 # 🌍 Connect With Me
 
 ### LinkedIn
-PASTE_LINKEDIN_LINK_HERE
+https://www.linkedin.com/in/abubakar-sabir-hussain-699033386/
 
 ### Upwork
-PASTE_UPWORK_LINK_HERE
+https://www.upwork.com/freelancers/~011f0503f28476428d
 
 ### Fiverr
-PASTE_FIVERR_LINK_HERE
+http://www.fiverr.com/s/0b4kWqx   FIVER
 
 ### GitHub
-https://github.com/YOUR_USERNAME
+https://github.com/abubakarsabir924-cell
 
 ---
 
