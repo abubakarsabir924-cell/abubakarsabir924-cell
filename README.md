@@ -1,46 +1,130 @@
-# Hi there! I'm Abubakar Sabir 👋
-### Backend Engineer | GSoC '26 Contributor | Linux & Security Enthusiast
+# Hi, I'm Abubakar Sabir 👋
 
-I am a software developer with a strong foundation in computer science and a passion for open-source. Currently, I am contributing to professional-grade codebases and building secure backend systems.
+### Backend Engineer • Open Source Contributor • Linux Enthusiast
 
----
+I’m a backend-focused developer from Pakistan passionate about Linux systems, backend engineering, AI-powered developer tools, and open-source software.
 
-### 🚀 Highlights
-- *Merged Contributor @ OpenPrinting:* Successfully contributed to the OpenPrinting ecosystem (mentored by Michael Sweet).
-- *GSoC '26 Contributor:* Actively working on high-impact open-source projects.
-- *Harvard CS50 Certified:* Mastery in C, Python, SQL, and Data Structures.
-- *Linux Power User:* Expert in Bash scripting, server management, and CLI automation.
+Currently contributing to professional-grade open-source projects while building secure and scalable backend applications.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- *Languages:* Python, C, SQL, Bash
-- *Web:* Flask, HTML/CSS
-- *Tools:* Git, GitHub, Linux (Ubuntu/Debian)
+# 🚀 Open Source Contributions
+
+## OpenPrinting / CUPS Contributions
+
+Contributed to the OpenPrinting ecosystem through real-world bug fixes, infrastructure improvements, and feature enhancements.
+
+### Featured Contributions
+
+- Fix duplicate local printers in DNS-SD discovery
+  → [View Pull Request](PASTE_PR_LINK_HERE)
+
+- Fix: Satisfy all with multiple Require directives
+  → [View Pull Request](PASTE_PR_LINK_HERE)
+
+- Add BrowseIPPSOnly directive and update man page
+  → [View Pull Request](PASTE_PR_LINK_HERE)
+
+- Docker runtime linking improvements for libcups
+  → [View Pull Request](PASTE_PR_LINK_HERE)
+
+### Contribution Areas
+
+- Linux Printing Infrastructure
+- C Programming
+- DNS-SD & Networking
+- Backend Systems
+- Configuration Management
+- Open Source Collaboration
 
 ---
 
-### 🛡️ Featured Projects
-- *Ai-Trust-Wall:* An AI-assisted trust verification system for secure environments.
-- *CS50 Finance:* A full-stack stock trading simulator with real-time API data.
-- *High-Performance Spell Checker:* A C-based tool optimized for massive dictionary lookups.
+# 🛠️ Tech Stack
+
+## Languages
+
+- Python
+- C
+- SQL
+- Bash
+
+## Backend & Web
+
+- Flask
+- REST APIs
+- HTML/CSS
+
+## Tools & Platforms
+
+- Git & GitHub
+- Linux (Ubuntu/Debian)
+- VS Code
+- Docker
+- CLI Automation
 
 ---
 
-### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Upwork](https://www.upwork.com/freelancers/~011f0503f28476428d)## Hi there 👋
+# 🛡️ Featured Projects
 
-<!--
-**abubakarsabir924-cell/abubakarsabir924-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linux-Buddy-AI
+AI-powered Linux terminal assistant designed to help beginners understand commands, errors, and Linux concepts safely using AI.
 
-Here are some ideas to get you started:
+## SiteMind-AI
+Full-stack AI scraper and RAG chatbot built using modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CS50 Finance
+A stock trading simulator with real-time API integration and secure authentication.
+
+## High-Performance Spell Checker
+A C-based optimized dictionary lookup system focused on performance and memory efficiency.
+
+---
+
+# 📈 Current Focus
+
+- Open Source Contributions
+- Backend Engineering
+- Linux Infrastructure
+- AI Developer Tools
+- System Programming
+- Security & Automation
+
+---
+
+# 🏆 Certifications & Learning
+
+- Harvard CS50x
+- Advanced Linux & CLI Workflows
+- Backend Development
+- Data Structures & Algorithms
+
+---
+
+# 📊 GitHub Activity
+
+- Active Open Source Contributor
+- Multiple Merged Pull Requests
+- Consistent GitHub Contributions
+- Collaborative Development Experience
+
+---
+
+# 🌍 Connect With Me
+
+### LinkedIn
+PASTE_LINKEDIN_LINK_HERE
+
+### Upwork
+PASTE_UPWORK_LINK_HERE
+
+### Fiverr
+PASTE_FIVERR_LINK_HERE
+
+### GitHub
+https://github.com/YOUR_USERNAME
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building developer-focused tools, contributing to open-source ecosystems, and solving low-level Linux and backend problems.
